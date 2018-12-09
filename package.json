@@ -1,0 +1,25 @@
+{
+  "name": "node-app",
+  "version": "1.0.0",
+  "description": "send mail app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amanyaboelyazeed/node-mail.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.5.3",
+    "express": "^4.16.4",
+    "nodemailer": "^4.7.0",
+    "nodemailer-smtp-transport": "^2.7.4"
+  },  
+  "bugs": {
+    "url": "https://github.com/amanyaboelyazeed/node-mail/issues"
+  },
+  "homepage": "https://github.com/amanyaboelyazeed/node-mail#readme"
+}

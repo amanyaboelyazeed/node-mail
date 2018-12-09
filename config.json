@@ -1,0 +1,12 @@
+
+{"mail": {
+    "user": "your.mail@gmail.com",
+    "password": "password",
+    "service": "gmail",
+    "host":"smtp.gmail.com"
+    },
+"rabbitmq":{
+    "url":"amqp://localhost",
+    "queue":"mail"
+    }
+}
